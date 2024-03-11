@@ -1,0 +1,114 @@
+.login-box-name {
+  background-color: #1a1b1b;
+  border-radius: 16px;
+  padding: 20px;
+  width: 400px;
+}
+
+.name-title {
+  font-size: 22px;
+  color: #fafafa;
+  font-weight: 600;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.input-container input {
+  background: #303130;
+  border-radius: 16px;
+  padding: 10px 12px;
+  border-bottom: 1px solid #785cff;
+  color: white;
+  font-size: 16px;
+  width: 60%;
+}
+
+.domain {
+  margin-left: -50px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #888;
+}
+
+.error-message {
+  color: #da4343;
+  font-size: 14px;
+  padding-left: 2px;
+  font-weight: 600;
+}
+
+.suggestions span {
+  margin-right: 10px;
+  color: #aaaaaa;
+}
+
+.suggestion-text {
+  font-size: 12px;
+  font-weight: 500;
+  color: #888;
+}
+
+.pill {
+  background-color: #1e1f1e;
+  color: white;
+  border: 1px solid #282929;
+  padding: 10px 16px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.pill:hover {
+  box-shadow: 0 2px #444;
+}
+
+.pill:active {
+  box-shadow: 0 2px #444;
+  transform: translateY(4px);
+}
+
+.next-button {
+  font-size: 16px;
+  font-weight: 600;
+  background-color: #785cff;
+  width: 35%;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 16px;
+  cursor: pointer;
+  margin-left: 20px;
+  transition: 0.3s ease-in;
+}
+
+.next-button:hover {
+  box-shadow: 0 2px #444;
+}
+
+.next-button:active {
+  box-shadow: 0 2px #444;
+  transform: translateY(4px);
+}
+
+.info {
+  border: 1px solid #282929;
+  padding: 10px;
+  border-radius: 12px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+.note {
+  font-size: 12px;
+  font-weight: 400;
+  text-align: left;
+  padding-left: 10px;
+  color: #666;
+}
+.highlight {
+  color: #fafafa;
+}

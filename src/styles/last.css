@@ -1,0 +1,8 @@
+.last {
+  background-image: url("../assets/bg.png");
+  background-color: #101010;
+  text-align: center;
+  height: 30vh;
+  width: 50vh;
+  color: "#101010";
+}

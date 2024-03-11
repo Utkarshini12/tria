@@ -1,0 +1,14 @@
+.logoCard {
+  background-image: url("../assets/bg.png");
+  background-color: #101010;
+  text-align: center;
+  height: 50vh;
+  width: 50vh;
+}
+.textColor {
+  color: #fafafa;
+  font-weight: 400;
+  padding-top: 20px;
+  padding-bottom: 12px;
+  margin-right: 12px;
+}
